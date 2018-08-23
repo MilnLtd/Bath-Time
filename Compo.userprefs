@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BathTime/Scripts/CRGTGameManager.cs">
+    <Files>
+      <File FileName="Assets/BathTime/Scripts/CRGTGameManager.cs" Line="13" Column="35" />
+      <File FileName="Assets/BathTime/Scripts/CRGTFps.cs" Line="1" Column="1" />
+      <File FileName="Assets/BathTime/Scripts/CRGTObjectMover.cs" Line="1" Column="1" />
+      <File FileName="Assets/BathTime/Scripts/CRGTObjectDestroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets/BathTime/Scripts/CRGTPlayerController.cs" Line="15" Column="35" />
+      <File FileName="Assets/BathTime/Scripts/CRGTRemoveAfterTime.cs" Line="1" Column="1" />
+      <File FileName="Assets/BathTime/Scripts/CRGTRemoveOnTouch.cs" Line="1" Column="1" />
+      <File FileName="Assets/BathTime/Scripts/CRGTSoundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/BathTime/Scripts/CRGTSpriteToggle.cs" Line="1" Column="1" />
+      <File FileName="Assets/BathTime/Scripts/CRGTBonus.cs" Line="1" Column="1" />
+      <File FileName="Assets/BathTime/Scripts/CRGTFader.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
